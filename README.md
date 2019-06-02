@@ -8,7 +8,8 @@
 ![](https://img.shields.io/badge/webpack-4.19.1-003366.svg)
 ![](https://img.shields.io/badge/license-MIT-orange.svg)
 # 前言
- 之前看过一个vue的可视化编程，拖动组件生成代码的项目，想着刚好在学react,就用react写一个类似的项目
+ 之前看过一个vue的可视化编程，拖动组件生成代码的项目，想着刚好在学react,就用react写一个类似的项目。写了有段时间，一直没上传，最近有空整理整理准备陆续添加一些奇奇怪怪的功能，主要练手为主。
+ 
 react4 + react-redux + react-router + es6 + axios + sass + webpack + immutable
 # 说明
 > 觉得对你有帮助,请点右上角的`Star`支持一下</br>
